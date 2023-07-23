@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dynamic_plotting</string>
+    <string name="MyApi">"Your api key"</string>
+</resources>
